@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rain
+comment0.text=\r\n\ Rain\ can\ enter\ a\ simulation\ at\ a\ random\ time\ and\ will\ last\ for\ a\ set\ number\ of\ steps.\r\n\ When\ present,\ it\ causes\ plants\ to\ grow.\ \r\n\r\n\ @author\ Arda\ Ordu\ K21045233\ and\ Matthew\ Palmer\ K21005255\r\n\ @version\ 2022.03.01\r\n
+comment1.params=
+comment1.target=Rain()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rain\r\n
+comment2.params=
+comment2.target=boolean\ getRainPresent()
+comment2.text=\r\n\ @return\ true\ if\ rain\ is\ present\ in\ the\ simulation,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=void\ chanceOfRain()
+comment3.text=\r\n\ Determine\ if\ rain\ will\ be\ present\ in\ the\ simulation\r\n
+comment4.params=
+comment4.target=int\ rainTime()
+comment4.text=\r\n\ Generate\ amount\ of\ steps\ that\ rain\ will\ last\ for,\ maximum\ being\ 50\r\n
+comment5.params=
+comment5.target=void\ determineRain()
+comment5.text=\r\n\ Controls\ rain\ in\ the\ simulation\r\n
+numComments=6

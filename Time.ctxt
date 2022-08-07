@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Time
+comment0.text=\r\n\ Controls\ time\ in\ the\ simulation.\ \r\n\ It\ can\ either\ be\ day\ or\ night,\ this\ changes\ every\ 12\ steps.\ \r\n\r\n\ @author\ Arda\ Ordu\ K21045233\ and\ Matthew\ Palmer\ K21005255\r\n\ @version\ 2022.03.01\r\n
+comment1.params=
+comment1.target=Time()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Time\r\n
+comment2.params=
+comment2.target=void\ incrementCounter()
+comment2.text=\r\n\ Increment\ the\ time\ counter\ by\ 1\ and\ run\ the\ determineTime\ method\r\n
+comment3.params=
+comment3.target=void\ determineTime()
+comment3.text=\r\n\ Determine\ if\ its\ day\ or\ night\r\n
+comment4.params=
+comment4.target=boolean\ getTime()
+comment4.text=\r\n\ @return\ The\ boolean\ isNight\ field\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTimeString()
+comment5.text=\r\n\ @return\ A\ string\ stating\ if\ its\ day\ or\ night\ depending\ on\ the\ boolean\ value\ of\ the\ isNight\ field\r\n
+comment6.params=
+comment6.target=void\ resetTimeCounter()
+comment6.text=\r\n\ Reset\ the\ counter\r\n
+numComments=7

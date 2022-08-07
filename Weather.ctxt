@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\r\n\ A\ class\ representing\ shared\ characteristics\ of\ weather.\r\n\r\n\ @author\ Arda\ Ordu\ K21045233\ and\ Matthew\ Palmer\ K21005255\r\n\ @version\ 2022.03.01\r\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Weather\r\n
+comment2.params=
+comment2.target=int\ getMaxTime()
+comment2.text=\r\n\ @return\ the\ Max\ time\r\n
+comment3.params=x
+comment3.target=void\ setMaxTime(int)
+comment3.text=\r\n\ Set\ the\ max\ time\ to\ an\ int\ value\r\n\ @param\ int\ x\r\n
+comment4.params=
+comment4.target=void\ decrementMaxTime()
+comment4.text=\r\n\ Decrement\ max\ time\ by\ 1\r\n
+numComments=5

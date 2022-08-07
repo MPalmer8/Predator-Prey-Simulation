@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Prey
+comment0.text=\r\n\ A\ class\ representing\ shared\ characteristics\ of\ prey.\r\n\r\n\ @author\ Arda\ Ordu\ K21045233\ and\ Matthew\ Palmer\ K21005255\r\n\ @version\ 2022.03.01\r\n
+comment1.params=field\ location
+comment1.target=Prey(Field,\ Location)
+comment1.text=\r\n\ Create\ a\ new\ prey\ at\ location\ in\ field.\r\n\ \r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=newAnimals
+comment2.target=void\ act(java.util.List)
+comment2.text=\r\n\ Make\ this\ animal\ act\ -\ that\ is\:\ make\ it\ do\r\n\ whatever\ it\ wants/needs\ to\ do.\r\n\ @param\ newAnimals\ A\ list\ to\ receive\ newly\ born\ animals.\r\n
+comment3.params=
+comment3.target=boolean\ getActiveAtNight()
+comment3.text=\r\n\ Gets\ if\ the\ animal\ is\ active\ at\ night\ or\ not\r\n
+comment4.params=
+comment4.target=boolean\ isInfected()
+comment4.text=\r\n\ Gets\ if\ the\ animal\ is\ infected\ with\ disease\r\n
+comment5.params=
+comment5.target=void\ setInfected()
+comment5.text=\r\n\ Sets\ the\ animal\ as\ infected\r\n
+numComments=6

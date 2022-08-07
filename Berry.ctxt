@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Berry
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ Berry.\r\n\ Berries\ can\ grow,\ and\ they\ die\ when\ they\ get\ eaten.\r\n\r\n\ @author\ Arda\ Ordu\ K21045233\ and\ Matthew\ Palmer\ K21005255\r\n\ @version\ 2022.03.01\r\n
+comment1.params=field\ location
+comment1.target=Berry(Field,\ Location)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Berry\r\n
+comment2.params=newBerries
+comment2.target=void\ act(java.util.List)
+comment2.text=\r\n\ Make\ this\ berry\ act\ -\ that\ is\:\ make\ it\ do\r\n\ whatever\ it\ wants/needs\ to\ do.\r\n\ @param\ newBerries\ A\ list\ to\ receive\ newly\ grown\ berries.\r\n
+comment3.params=
+comment3.target=int\ multiply()
+comment3.text=\r\n\ Check\ whether\ or\ not\ this\ Berry\ is\ to\ grow\ more\ berries\ at\ this\ step.\r\n\ New\ growths\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newBerry\ A\ list\ to\ return\ newly\ grown\ berries.\r\n
+comment4.params=newBerry
+comment4.target=void\ grow(java.util.List)
+comment4.text=\r\n\ Check\ whether\ or\ not\ new\ berries\ will\ be\ grown\ at\ this\ step.\r\n\ New\ berries\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newBerry\ A\ list\ to\ return\ newly\ grown\ berries.\r\n
+numComments=5

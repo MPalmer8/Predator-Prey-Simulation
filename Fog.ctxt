@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fog
+comment0.text=\r\n\ Fog\ can\ enter\ a\ simulation\ at\ a\ random\ time\ and\ will\ last\ for\ a\ set\ number\ of\ steps.\r\n\ When\ present,\ it\ makes\ it\ harder\ for\ predators\ to\ hunt\ for\ food.\ \r\n\r\n\ @author\ Arda\ Ordu\ K21045233\ and\ Matthew\ Palmer\ K21005255\r\n\ @version\ 2022.03.01\r\n
+comment1.params=
+comment1.target=Fog()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fog\r\n
+comment2.params=
+comment2.target=boolean\ getFogPresent()
+comment2.text=\r\n\ @return\ true\ if\ fog\ is\ present\ in\ the\ simulation,\ false\ otherwise\r\n
+comment3.params=
+comment3.target=void\ chanceOfFog()
+comment3.text=\r\n\ Determine\ if\ fog\ will\ be\ present\ in\ the\ simulation\r\n
+comment4.params=
+comment4.target=int\ fogTime()
+comment4.text=\r\n\ Generate\ amount\ of\ steps\ that\ fog\ will\ last\ for,\ maximum\ being\ 50\r\n
+comment5.params=
+comment5.target=void\ determineFog()
+comment5.text=\r\n\ Control\ fog\ in\ the\ simulation\r\n
+comment6.params=animals
+comment6.target=void\ getAnimalsList(java.util.List)
+comment6.text=\r\n\ Get\ the\ list\ of\ animals\ in\ the\ simulation\r\n
+comment7.params=x
+comment7.target=void\ setProbability(double)
+comment7.text=\r\n\ Set\ the\ blind\ probability\ for\ all\ of\ the\ predators\r\n
+numComments=8
